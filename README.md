@@ -21,6 +21,13 @@ This code is a structure/framework so the original Anya cannot be replicated to 
 
 Although if you would like to download our framework and create agents similar to Anya:
 
+## Installation
+
+### Step 1: Clone the repository
+
+git clone https://github.com/yourusername/ai-agent.git
+cd ai-agent
+
 ### Step 2: Create a virtual environment
 
 python -m venv venv
@@ -30,7 +37,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-### Step 4: Set up environment variables (optional)
+### Step 4: Set up environment variables (API ACCESS SOON)
 
 Create a `.env` file in the project root:
 
@@ -38,5 +45,4 @@ API_KEY=your_api_key_here
 DATABASE_URL=sqlite:///data/agent.db
 LOG_LEVEL=INFO
 
-(API ACCESS SOON)
 ---
