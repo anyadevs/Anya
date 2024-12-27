@@ -6,22 +6,23 @@ Anya is a modular and extensible framework for building advanced AI-powered trad
 
 
 
-#DISCLAIMER
+## Disclaimer
 
 This code is a structure/framework so the original Anya cannot be replicated to achive this we have:
 
 1. Added Dummy Implemtation
-    - The TradingModel class is implemented with placeholder logic. Its training and prediction methods (train and predict) are simplistic and not based on any actual data analysis or 
-       machine learning.
+    - The TradingModel class is implemented with placeholder logic. Its training and prediction methods (train and predict) are simplistic and not based on any actual data analysis or machine learning.
+
 3. Made sure no real data is included.
    - No actual datasets are included in the repository
 
  4. A Reinforcement Learning Placeholder
 
 
+------
 Although if you would like to download our framework and create agents similar to Anya:
 
-## 📦 Installation
+##  Installation
 
 ### Step 1: Clone the repository
 
@@ -50,3 +51,11 @@ DATABASE_URL=sqlite:///data/agent.db
 LOG_LEVEL=INFO
 ```
 ---
+## Developers Notes
+This project was created by 3 university students who are currently studying data science and machine learning, we were intrigued with the creation of the truth terminal and its involvement with crypto, our main goal is to create an agent that helps with trading and gaming as these are things we enjoy.
+
+After finalization we will create a solana token for anya.
+
+---
+## Anyas Socials
+https://x.com/anyaaray
